@@ -7,3 +7,5 @@ Click on the repositories to look into any specific project! On some of these pr
 Here is a Table of Contents for my Projects:
 
 - intro_to_ds : Includes Introductory Data Science and Machine Learning Projects
+- neighborhood-noise : Includes Software Engineering Full-Stack Development of Neighborhood Noise Flutterflow Application
+- Scribe : Includes Documentation and Code for SQL Database-Manipulation Application
